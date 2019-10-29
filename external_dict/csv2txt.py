@@ -8,6 +8,7 @@ with open('./movie_title.txt', 'a') as f:
 改为：
 with open('./movie_title.txt', 'a', encoding='utf-8') as f:
 
+提交
 """
 import pandas as pd
 
